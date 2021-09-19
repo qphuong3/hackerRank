@@ -1,4 +1,4 @@
-public class Solution {
+public class minimumSwapsArraySolution {
 
     // Complete the minimumSwaps function below.
     static int minimumSwaps(int[] arr) {
